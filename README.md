@@ -8,5 +8,6 @@ To promote open source and contributions through github.
 Follow the instructions as mentioned here.
 
 ### Navigation links
-- bla
-- bla bla
+- [About the author](./About_Me)
+- [Contributors](./Contributors)
+- [Ideology](./Ideology)
