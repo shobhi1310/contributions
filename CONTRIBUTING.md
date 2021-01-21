@@ -7,7 +7,7 @@ Please follow these guided set of instructions thoroughly for getting yourself a
 ## Submitting a Pull Request
 
 ### Best Practices to send Pull Requests:
-  - Fork the [project](https://github.com/openMF/contributions) on GitHub
+  - Fork the [project](https://github.com/shobhi1310/contributions) on GitHub
   - Clone the project locally into your system.
 ```console
 $ git clone https://github.com/your-username/contributions.git
@@ -16,7 +16,8 @@ $ git clone https://github.com/your-username/contributions.git
 ```console
 $ git checkout master
 ```
-  - Create a new branch with a meaningful name before adding and commiting your changes.
+  - Create a new branch with your name as name of the branch before adding and commiting your changes.
+  - Make necessary changes in [this](./Template.html) format
 ```console
 $ git checkout -b branch-name
 ```
