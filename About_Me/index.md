@@ -30,3 +30,8 @@
 - Earth
 - Land
 - Don't search me or else I will find you 🙃
+
+## Navigation Link
+- [Contributors](../Contributors)
+- [Ideology](../Ideology)
+- [Home](../README.md)

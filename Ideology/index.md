@@ -22,5 +22,5 @@ The main idea for this site based method is to make users engaged and entertaine
 ## Navigation Links
 
 - [About the author](../About_Me)
-- [Ideology](../Ideology)
+- [Contributors](../COntributors)
 - [Home](../README.md)
