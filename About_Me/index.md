@@ -6,9 +6,9 @@
 ## Who am I?
 - Name - Shubhankar Bhadra
 - Gender - Male
-- Blood group - o+
-- Relationship status* - Occupied 😏
-- Hobbies - make life of others hell!
+- Blood group - O+
+- Relationship status* - Taken 😏
+- Hobbies - Make life of others hell!
 - species - Homo sapien
 
 \* heterosexual

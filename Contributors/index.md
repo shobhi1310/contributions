@@ -1,6 +1,6 @@
 ![I am you](https://pbs.twimg.com/media/D982xrWVUAEbAl2.jpg)
 # You are a rider, provider!
-Contributing is the hardest effort you ould have ever done in your life. This page is supposed to make you feel demeaning as what have you done till now. If you have contributed here boast it off. 
+Contributing is the hardest effort you could have ever done in your life. This page is supposed to make you feel demeaning as what have you done till now. If you have contributed here boast it off. 
 
 Or else drink the blood of shame and see others contribution.
 
@@ -16,6 +16,5 @@ I praise these fellas and sheilas if any.
 
 ## Navigation Link
 - [About the author](../About_Me)
-- [Contributors](../Contributors)
 - [Ideology](../Ideology)
 - [Home](../README.md)
