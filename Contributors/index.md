@@ -9,6 +9,10 @@ Or if you ain't no pussy, contribute.
 ## Contributors
 <-For now no one contributed 😑->
 
+But wait who the hell is Amit???😮
+
+[Is he the ghost who troubles the troublemaker???](https://github.com/AMITKESARI2000 "Shazammm!!!")
+
 ### Hall of Fame
 I praise these fellas and sheilas if any. 
 
