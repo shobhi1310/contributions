@@ -17,4 +17,4 @@ I praise these fellas and sheilas if any.
 ## Navigation Link
 - [About the author](../About_Me)
 - [Ideology](../Ideology)
-- [Home](../README.md)
+- [Home](../)
