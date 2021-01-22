@@ -7,7 +7,7 @@ Or else drink the blood of shame and see others contribution.
 Or if you ain't no pussy, contribute.
 
 ## Contributors
-<-For now no one contributed 😑->
+- [Darahas Kopparapu](./darahas.md)
 
 ### Hall of Fame
 I praise these fellas and sheilas if any. 
