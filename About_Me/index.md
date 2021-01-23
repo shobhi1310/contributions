@@ -34,4 +34,4 @@
 ## Navigation Link
 - [Contributors](../Contributors)
 - [Ideology](../Ideology)
-- [Home](../README.md)
+- [Home](../)

@@ -7,7 +7,7 @@ Or else drink the blood of shame and see others contribution.
 Or if you ain't no pussy, contribute.
 
 ## Contributors
-<-For now no one contributed 😑->
+- [Darahas Kopparapu](./darahas.md)
 
 But wait who the hell is Amit???😮
 
@@ -21,4 +21,5 @@ I praise these fellas and sheilas if any.
 ## Navigation Link
 - [About the author](../About_Me)
 - [Ideology](../Ideology)
-- [Home](../README.md)
+- [Home](../)
+

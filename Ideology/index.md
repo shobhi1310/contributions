@@ -22,7 +22,7 @@ The main idea for this site based method is to make users engaged and entertaine
 
 - [About the author](../About_Me)
 - [Contributors](../COntributors)
-- [Home](../README.md)
+- [Home](../)
 
-> # Don't stop until you are proud.
+> Don't stop until you are proud.
 
