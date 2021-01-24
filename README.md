@@ -1,7 +1,7 @@
 # contributions
 This page will contain all the contributions made by students in the form of markdown files if accepted.
 
-## Motto
+## Motivation
 To promote open source and contributions through github.
 
 ## What should I do
