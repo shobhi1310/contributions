@@ -9,6 +9,10 @@ Or if you ain't no pussy, contribute.
 ## Contributors
 - [Darahas Kopparapu](./darahas.md)
 
+But wait who the hell is Amit???😮
+
+[Is he the ghost who troubles the troublemaker???](https://github.com/AMITKESARI2000 "Shazammm!!!")
+
 ### Hall of Fame
 I praise these fellas and sheilas if any. 
 
@@ -18,3 +22,4 @@ I praise these fellas and sheilas if any.
 - [About the author](../About_Me)
 - [Ideology](../Ideology)
 - [Home](../)
+
